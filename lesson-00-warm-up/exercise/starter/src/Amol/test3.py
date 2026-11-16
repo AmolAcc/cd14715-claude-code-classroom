@@ -1,0 +1,1 @@
+printenv | grep -E "ANTHROPIC|CLAUDE"
